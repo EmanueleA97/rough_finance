@@ -1,0 +1,12 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to rough_finance\nThis is a personal notebook for my journey through quantitative finance.\nMath expressions are rendered with LaTeX, e.g.:\n\\[\n\\\\mathbb{E}[X^2] - (\\\\mathbb{E}[X])^2\n\\]",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]
