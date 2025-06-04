@@ -1,0 +1,25 @@
+body {
+  font-family: 'Cambria Math', serif;
+  background-color: #f9f9f9;
+  color: #111;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar nav a {
+  color: #222;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  display: block;
+}
+
+.sidebar nav a:hover {
+  background-color: #e5e5e5;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.6;
+}

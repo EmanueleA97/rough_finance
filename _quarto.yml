@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "rough_finance"
+  navbar: false
+  sidebar:
+    style: floating
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: study_notes.qmd
+        text: Study Notes
+      - href: new_ideas.qmd
+        text: New Ideas
+      - href: python_scripts.qmd
+        text: Python Scripts
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    include-in-header: 
+      - text: |
+          <link href="https://fonts.googleapis.com/css2?family=Cambria+Math&display=swap" rel="stylesheet">
+    math: mathjax
